@@ -1,0 +1,56 @@
+{
+  "title": "Вишлист на мой день рождения",
+  "coverImage": "",
+  "gifts": [
+    {
+      "id": "headphones",
+      "title": "Беспроводные наушники",
+      "photo": "https://picsum.photos/seed/wishlist-headphones/400/400",
+      "link": "https://example.com/headphones",
+      "multi": false,
+      "chosen": false,
+      "chosenCount": 0,
+      "mine": false
+    },
+    {
+      "id": "lamp",
+      "title": "Настольная лампа с тёплым светом",
+      "photo": "https://picsum.photos/seed/wishlist-lamp/400/400",
+      "link": "https://example.com/lamp",
+      "multi": false,
+      "chosen": true,
+      "chosenCount": 1,
+      "mine": false
+    },
+    {
+      "id": "book",
+      "title": "Книга рецептов итальянской кухни",
+      "photo": "https://picsum.photos/seed/wishlist-book/400/400",
+      "link": "https://example.com/book",
+      "multi": false,
+      "chosen": true,
+      "chosenCount": 1,
+      "mine": true
+    },
+    {
+      "id": "flowers",
+      "title": "Цветы — любые, какие понравятся",
+      "photo": "https://picsum.photos/seed/wishlist-flowers/400/400",
+      "link": "https://example.com/flowers",
+      "multi": true,
+      "chosen": true,
+      "chosenCount": 2,
+      "mine": false
+    },
+    {
+      "id": "theatre",
+      "title": "Билеты в театр на двоих",
+      "photo": "https://picsum.photos/seed/wishlist-theatre/400/400",
+      "link": null,
+      "multi": false,
+      "chosen": false,
+      "chosenCount": 0,
+      "mine": false
+    }
+  ]
+}
